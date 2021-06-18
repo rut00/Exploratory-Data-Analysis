@@ -9,6 +9,6 @@ This repository contains the project developed during internship with The Sparks
   <li> Here is the dataset : <a href="https://bit.ly/3i4rbWl"> Dataset.csv </a> </li>
 </ul>
 
-<h3> Solution: Exploratory Data Analysis </h3>
+<h3> Solution: <a href="https://github.com/rut00/Exploratory-Data-Analysis"> Exploratory Data Analysis </a> </h3>
 <h3> Demo: Exploratory Data Analysis </h3>
 
