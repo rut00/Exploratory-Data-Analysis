@@ -10,5 +10,5 @@ This repository contains the project developed during internship with The Sparks
 </ul>
 
 <h3> Solution: <a href="https://github.com/rut00/Exploratory-Data-Analysis"> Exploratory Data Analysis </a> </h3>
-<h3> Demo: Exploratory Data Analysis </h3>
+<h3> Demo: <a href="https://www.linkedin.com/posts/rutika-mehta_gripjune21-datascience-tsf-activity-6811748539241250816-GyVn">Exploratory Data Analysis </a></h3>
 
